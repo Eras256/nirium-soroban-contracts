@@ -1,5 +1,10 @@
 # 🛡️ Nirium Protocol: Soroban Smart Contracts
 
+> **Archived, 12 Oct 2026.** This is an early snapshot of Nirium's Soroban contracts and is no longer maintained.
+> The contract addresses below are outdated testnet deployments. Current code and addresses:
+> [nirium-protocol/nirium](https://github.com/nirium-protocol/nirium) (published packages) and
+> [Eras256/Nirium](https://github.com/Eras256/Nirium) (full source, including the current contracts).
+
 This repository contains the verified and open-source smart contracts for the **Nirium Protocol**, an autonomous financial operating system built on the Stellar Network.
 
 These contracts are publicly available as part of our commitment to transparency and our application for the **Stellar Community Fund (SCF #42)** and **Instawards 2026**.
